@@ -16,22 +16,16 @@ const app = express();
 
 app.use(
   cors({
-    origin(origin, callback) {
-      if (!origin) {
-        callback(null, true);
-        return;
-      }
-
-      const normalizedOrigin = origin.replace(/\/+$/, "");
-      const isAllowed = config.allowedOrigins.includes(normalizedOrigin);
-
-      callback(isAllowed ? null : new Error("CORS origin not allowed"), isAllowed);
-    },
+    origin: config.allowedOrigins,
     credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
     exposedHeaders: ["x-request-id"]
   })
 );
+
 app.set("trust proxy", 1);
+
 app.use(attachRequestContext);
 app.use(express.json());
 
@@ -61,7 +55,9 @@ app.get("/api/ready", (_request, response) => {
 app.get("/api/status", async (_request, response) => {
   try {
     await prisma.$queryRaw`SELECT 1`;
+
     const collegeCount = await prisma.college.count();
+
     response.json({
       status: "ok",
       ready: true,
@@ -100,6 +96,7 @@ app.use(
     _next: express.NextFunction
   ) => {
     const errorId = request.requestId ?? crypto.randomUUID();
+
     console.error(
       JSON.stringify({
         errorId,
@@ -107,6 +104,7 @@ app.use(
         stack: error.stack
       })
     );
+
     response.status(500).json({
       message: "Internal server error.",
       errorId,
