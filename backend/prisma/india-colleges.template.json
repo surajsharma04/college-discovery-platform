@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "slug": "iit-bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "annualFees": 228000,
+    "rating": 4.9,
+    "placementRate": 92,
+    "establishedIn": 1958,
+    "type": "Public",
+    "website": "https://www.iitb.ac.in/",
+    "description": "Premier public engineering and research institute known for strong computer science, electrical engineering, entrepreneurship, and global research collaborations.",
+    "courses": [
+      { "name": "B.Tech Computer Science and Engineering", "duration": "4 years", "seats": 136, "totalFee": 912000, "averageCtc": 23.5 },
+      { "name": "B.Tech Electrical Engineering", "duration": "4 years", "seats": 120, "totalFee": 912000, "averageCtc": 19.4 },
+      { "name": "B.Tech Mechanical Engineering", "duration": "4 years", "seats": 135, "totalFee": 912000, "averageCtc": 16.2 }
+    ],
+    "cutoffs": [
+      { "exam": "JEE", "maxRank": 1600, "scoreBand": "Top 1.6k" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 89, "medianCtc": 18.2, "highestCtc": 61.0, "topRecruiters": ["Google", "Microsoft", "Goldman Sachs", "Texas Instruments"] },
+      { "year": 2023, "placementRate": 91, "medianCtc": 19.6, "highestCtc": 68.0, "topRecruiters": ["Apple", "Samsung", "Uber", "McKinsey"] },
+      { "year": 2024, "placementRate": 92, "medianCtc": 20.8, "highestCtc": 72.0, "topRecruiters": ["Google", "Microsoft", "Qualcomm", "Flipkart"] }
+    ],
+    "reviews": [
+      { "authorName": "Aman Verma", "headline": "Excellent peer group and research exposure", "body": "The academic pace is intense, but the campus ecosystem makes it worth it. Labs, clubs, and internships create a strong learning loop.", "rating": 4.9, "sourceType": "seeded_student" },
+      { "authorName": "Sneha Kulkarni", "headline": "Top placements with demanding coursework", "body": "Placement support is strong, especially for core tech and analytics roles. Students should still be ready for a rigorous workload and self-driven projects.", "rating": 4.8, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "slug": "iit-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "annualFees": 225000,
+    "rating": 4.8,
+    "placementRate": 91,
+    "establishedIn": 1961,
+    "type": "Public",
+    "website": "https://home.iitd.ac.in/",
+    "description": "Flagship public institute with strong engineering, design, management, and applied sciences programs plus deep industry and startup links in the NCR region.",
+    "courses": [
+      { "name": "B.Tech Computer Science and Engineering", "duration": "4 years", "seats": 129, "totalFee": 900000, "averageCtc": 22.9 },
+      { "name": "B.Tech Mathematics and Computing", "duration": "4 years", "seats": 98, "totalFee": 900000, "averageCtc": 21.3 },
+      { "name": "B.Tech Electrical Engineering", "duration": "4 years", "seats": 120, "totalFee": 900000, "averageCtc": 18.8 }
+    ],
+    "cutoffs": [
+      { "exam": "JEE", "maxRank": 1850, "scoreBand": "Top 1.9k" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 88, "medianCtc": 17.6, "highestCtc": 55.0, "topRecruiters": ["Microsoft", "Oracle", "Sprinklr", "Boston Consulting Group"] },
+      { "year": 2023, "placementRate": 90, "medianCtc": 18.7, "highestCtc": 61.0, "topRecruiters": ["Google", "Atlassian", "Adobe", "American Express"] },
+      { "year": 2024, "placementRate": 91, "medianCtc": 19.8, "highestCtc": 65.0, "topRecruiters": ["Google", "Microsoft", "Paytm", "Texas Instruments"] }
+    ],
+    "reviews": [
+      { "authorName": "Ritika Anand", "headline": "Strong academics and startup energy", "body": "The Delhi ecosystem helps with internships, hackathons, and founders building early-stage products. Faculty quality is excellent in flagship departments.", "rating": 4.8, "sourceType": "seeded_student" },
+      { "authorName": "Karan Malhotra", "headline": "Great exposure, competitive environment", "body": "Students get access to top recruiters and active technical societies. The culture is rewarding if you enjoy a fast and competitive academic setting.", "rating": 4.7, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "National Institute of Technology Tiruchirappalli",
+    "slug": "nit-trichy",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "annualFees": 178000,
+    "rating": 4.7,
+    "placementRate": 89,
+    "establishedIn": 1964,
+    "type": "Public",
+    "website": "https://www.nitt.edu/",
+    "description": "One of India’s leading NITs with balanced strength in engineering academics, hostels, technical festivals, and high-volume recruiter participation.",
+    "courses": [
+      { "name": "B.Tech Computer Science and Engineering", "duration": "4 years", "seats": 119, "totalFee": 712000, "averageCtc": 17.9 },
+      { "name": "B.Tech Electronics and Communication Engineering", "duration": "4 years", "seats": 116, "totalFee": 712000, "averageCtc": 14.8 },
+      { "name": "B.Tech Mechanical Engineering", "duration": "4 years", "seats": 116, "totalFee": 712000, "averageCtc": 11.6 }
+    ],
+    "cutoffs": [
+      { "exam": "JEE", "maxRank": 13500, "scoreBand": "Top 13.5k" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 85, "medianCtc": 10.8, "highestCtc": 38.0, "topRecruiters": ["Amazon", "Infosys", "Caterpillar", "Cognizant"] },
+      { "year": 2023, "placementRate": 87, "medianCtc": 11.6, "highestCtc": 41.0, "topRecruiters": ["Microsoft", "Accenture", "Deloitte", "Tata Steel"] },
+      { "year": 2024, "placementRate": 89, "medianCtc": 12.4, "highestCtc": 44.0, "topRecruiters": ["Amazon", "Oracle", "L&T", "ZS Associates"] }
+    ],
+    "reviews": [
+      { "authorName": "Harini S", "headline": "Very dependable placements and campus life", "body": "The institute delivers solid outcomes across core and software roles. The campus is structured well and the alumni network is genuinely helpful.", "rating": 4.7, "sourceType": "seeded_student" },
+      { "authorName": "Rohit Kumar", "headline": "Excellent NIT option for engineering", "body": "Strong academics, good hostel culture, and active clubs make the overall experience balanced. Students should still plan carefully for branch-specific placement goals.", "rating": 4.6, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "slug": "bits-pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "annualFees": 572000,
+    "rating": 4.8,
+    "placementRate": 90,
+    "establishedIn": 1964,
+    "type": "Private",
+    "website": "https://www.bits-pilani.ac.in/",
+    "description": "Highly regarded private university with flexible academic structure, strong placements, and a widely recognized student innovation and startup culture.",
+    "courses": [
+      { "name": "B.E. Computer Science", "duration": "4 years", "seats": 150, "totalFee": 2288000, "averageCtc": 21.6 },
+      { "name": "B.E. Electronics and Instrumentation", "duration": "4 years", "seats": 120, "totalFee": 2288000, "averageCtc": 17.1 },
+      { "name": "B.E. Mechanical Engineering", "duration": "4 years", "seats": 120, "totalFee": 2288000, "averageCtc": 13.8 }
+    ],
+    "cutoffs": [
+      { "exam": "BITSAT", "maxRank": 3200, "scoreBand": "Top 3.2k equivalent" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 86, "medianCtc": 14.4, "highestCtc": 43.0, "topRecruiters": ["DE Shaw", "Microsoft", "Adobe", "Uber"] },
+      { "year": 2023, "placementRate": 88, "medianCtc": 15.6, "highestCtc": 48.0, "topRecruiters": ["Google", "Navi", "Cisco", "Deloitte"] },
+      { "year": 2024, "placementRate": 90, "medianCtc": 16.7, "highestCtc": 52.0, "topRecruiters": ["Microsoft", "Oracle", "Amazon", "EY"] }
+    ],
+    "reviews": [
+      { "authorName": "Pranjal Gupta", "headline": "Academic flexibility is a real advantage", "body": "The course structure gives students room to shape their path with electives, practice school, and dual-degree choices. Placements remain strong for software and electronics profiles.", "rating": 4.8, "sourceType": "seeded_student" },
+      { "authorName": "Nikita Sharma", "headline": "Strong brand and student culture", "body": "Clubs, festivals, and alumni access are excellent. The fee is higher than public institutions, but many students value the outcomes and flexibility.", "rating": 4.7, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "slug": "vit-vellore",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "annualFees": 198000,
+    "rating": 4.4,
+    "placementRate": 86,
+    "establishedIn": 1984,
+    "type": "Private",
+    "website": "https://vit.ac.in/",
+    "description": "Large private university with broad engineering intake, strong campus infrastructure, and wide recruiter participation across technology and service sectors.",
+    "courses": [
+      { "name": "B.Tech Computer Science and Engineering", "duration": "4 years", "seats": 900, "totalFee": 792000, "averageCtc": 11.8 },
+      { "name": "B.Tech Information Technology", "duration": "4 years", "seats": 360, "totalFee": 792000, "averageCtc": 10.6 },
+      { "name": "B.Tech Electronics and Communication Engineering", "duration": "4 years", "seats": 420, "totalFee": 792000, "averageCtc": 9.8 }
+    ],
+    "cutoffs": [
+      { "exam": "VITEEE", "maxRank": 25000, "scoreBand": "Top 25k" },
+      { "exam": "JEE", "maxRank": 45000, "scoreBand": "Top 45k" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 82, "medianCtc": 7.2, "highestCtc": 32.0, "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant"] },
+      { "year": 2023, "placementRate": 84, "medianCtc": 7.8, "highestCtc": 37.0, "topRecruiters": ["Microsoft", "Accenture", "Deloitte", "PayPal"] },
+      { "year": 2024, "placementRate": 86, "medianCtc": 8.5, "highestCtc": 41.0, "topRecruiters": ["Amazon", "TCS", "PwC", "Capgemini"] }
+    ],
+    "reviews": [
+      { "authorName": "Mithun Raj", "headline": "Good placement scale and infrastructure", "body": "Because the student intake is large, outcomes vary by specialization and preparation level. Students who stay consistent with projects and coding practice still do quite well.", "rating": 4.4, "sourceType": "seeded_student" },
+      { "authorName": "Ananya S", "headline": "Lots of opportunities if you use them well", "body": "The campus has strong facilities and frequent recruiter visits. It works best for students who are proactive about skill-building and internships.", "rating": 4.3, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "Delhi Technological University",
+    "slug": "dtu-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "annualFees": 236000,
+    "rating": 4.5,
+    "placementRate": 87,
+    "establishedIn": 1941,
+    "type": "Public",
+    "website": "https://www.dtu.ac.in/",
+    "description": "Well-known Delhi engineering institution with strong employer recognition, active coding culture, and solid outcomes in software, consulting, and core engineering roles.",
+    "courses": [
+      { "name": "B.Tech Computer Engineering", "duration": "4 years", "seats": 180, "totalFee": 944000, "averageCtc": 18.4 },
+      { "name": "B.Tech Software Engineering", "duration": "4 years", "seats": 120, "totalFee": 944000, "averageCtc": 19.1 },
+      { "name": "B.Tech Mechanical Engineering", "duration": "4 years", "seats": 180, "totalFee": 944000, "averageCtc": 10.9 }
+    ],
+    "cutoffs": [
+      { "exam": "JEE", "maxRank": 22000, "scoreBand": "Top 22k" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 83, "medianCtc": 9.2, "highestCtc": 34.0, "topRecruiters": ["Adobe", "ZS Associates", "TCS", "Samsung"] },
+      { "year": 2023, "placementRate": 85, "medianCtc": 10.1, "highestCtc": 39.0, "topRecruiters": ["Google", "Microsoft", "Deloitte", "Paytm"] },
+      { "year": 2024, "placementRate": 87, "medianCtc": 11.3, "highestCtc": 44.0, "topRecruiters": ["Amazon", "Sprinklr", "American Express", "Samsung"] }
+    ],
+    "reviews": [
+      { "authorName": "Ishita Arora", "headline": "Very strong for tech roles in Delhi", "body": "The branch reputation and location help with internships and placements. Student societies and hackathons are a big plus for software-focused peers.", "rating": 4.5, "sourceType": "seeded_student" },
+      { "authorName": "Manas Tiwari", "headline": "Industry exposure is one of the best parts", "body": "There is healthy recruiter interest and a large alumni base in product and engineering roles. Some departments are stronger than others, so branch choice matters.", "rating": 4.4, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "National Law School of India University",
+    "slug": "nlsiu-bengaluru",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "annualFees": 334000,
+    "rating": 4.7,
+    "placementRate": 84,
+    "establishedIn": 1986,
+    "type": "Public",
+    "website": "https://www.nls.ac.in/",
+    "description": "India’s most recognized law school with strong academic intensity, legal research, corporate law placements, policy pathways, and national moot court visibility.",
+    "courses": [
+      { "name": "BA LLB (Hons)", "duration": "5 years", "seats": 120, "totalFee": 1670000, "averageCtc": 15.1 },
+      { "name": "LLM", "duration": "1 year", "seats": 100, "totalFee": 380000, "averageCtc": 9.4 },
+      { "name": "Master's Programme in Public Policy", "duration": "2 years", "seats": 40, "totalFee": 760000, "averageCtc": 8.2 }
+    ],
+    "cutoffs": [
+      { "exam": "CLAT", "maxRank": 180, "scoreBand": "Top 180" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 79, "medianCtc": 12.1, "highestCtc": 19.0, "topRecruiters": ["AZB & Partners", "Khaitan & Co", "Cyril Amarchand Mangaldas", "Trilegal"] },
+      { "year": 2023, "placementRate": 82, "medianCtc": 13.2, "highestCtc": 21.0, "topRecruiters": ["Shardul Amarchand", "Luthra & Luthra", "JSA", "NITI Aayog"] },
+      { "year": 2024, "placementRate": 84, "medianCtc": 14.0, "highestCtc": 23.0, "topRecruiters": ["Khaitan & Co", "Cyril Amarchand Mangaldas", "Trilegal", "Talwar Thakore & Associates"] }
+    ],
+    "reviews": [
+      { "authorName": "Diya Menon", "headline": "Outstanding legal ecosystem", "body": "The peer quality, moots, journals, and internship network are exceptional. Students aiming for litigation, corporate law, or policy get strong exposure early.", "rating": 4.8, "sourceType": "seeded_student" },
+      { "authorName": "Arjun Rao", "headline": "Demanding but very rewarding", "body": "It is academically intense and not an easy ride, but the reputation and alumni support are major strengths. Placement outcomes are strongest for students who stay active in research and internships.", "rating": 4.6, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences, New Delhi",
+    "slug": "aiims-new-delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "annualFees": 6800,
+    "rating": 4.9,
+    "placementRate": 96,
+    "establishedIn": 1956,
+    "type": "Public",
+    "website": "https://www.aiims.edu/",
+    "description": "India’s leading public medical institute and hospital network with highly competitive admissions, strong clinical exposure, and extensive research infrastructure.",
+    "courses": [
+      { "name": "MBBS", "duration": "5.5 years", "seats": 132, "totalFee": 34000, "averageCtc": 16.8 },
+      { "name": "B.Sc Nursing (Hons)", "duration": "4 years", "seats": 91, "totalFee": 12000, "averageCtc": 6.8 },
+      { "name": "MD / MS", "duration": "3 years", "seats": 280, "totalFee": 24000, "averageCtc": 22.5 }
+    ],
+    "cutoffs": [
+      { "exam": "NEET", "maxRank": 60, "scoreBand": "Top 60" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 94, "medianCtc": 12.5, "highestCtc": 26.0, "topRecruiters": ["AIIMS Hospital Network", "Apollo Hospitals", "Fortis Healthcare", "Max Healthcare"] },
+      { "year": 2023, "placementRate": 95, "medianCtc": 13.4, "highestCtc": 28.0, "topRecruiters": ["AIIMS Hospital Network", "Medanta", "Fortis Healthcare", "Apollo Hospitals"] },
+      { "year": 2024, "placementRate": 96, "medianCtc": 14.1, "highestCtc": 30.0, "topRecruiters": ["AIIMS Hospital Network", "Apollo Hospitals", "Fortis Healthcare", "Narayana Health"] }
+    ],
+    "reviews": [
+      { "authorName": "Sakshi Jain", "headline": "Top-tier clinical learning", "body": "Clinical exposure is unmatched and the patient load creates an intense but valuable training environment. Students need resilience because the schedule can be demanding.", "rating": 4.9, "sourceType": "seeded_student" },
+      { "authorName": "Yash Bhatia", "headline": "Best known for medicine and research", "body": "Faculty reputation, hospital access, and peer quality are all outstanding. It is one of the toughest places to get into, but the academic value is extremely high.", "rating": 4.8, "sourceType": "seeded_student" }
+    ]
+  },
+  {
+    "name": "University of Hyderabad",
+    "slug": "university-of-hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "annualFees": 18400,
+    "rating": 4.4,
+    "placementRate": 74,
+    "establishedIn": 1974,
+    "type": "Public",
+    "website": "https://uohyd.ac.in/",
+    "description": "Research-focused central university recognized for postgraduate education, sciences, humanities, social sciences, and a strong interdisciplinary academic culture.",
+    "courses": [
+      { "name": "MCA", "duration": "2 years", "seats": 60, "totalFee": 73600, "averageCtc": 8.2 },
+      { "name": "M.Sc Data Science", "duration": "2 years", "seats": 40, "totalFee": 92000, "averageCtc": 7.4 },
+      { "name": "MA Economics", "duration": "2 years", "seats": 60, "totalFee": 52000, "averageCtc": 5.8 }
+    ],
+    "cutoffs": [
+      { "exam": "CUET", "maxRank": 18000, "scoreBand": "Top 18k" },
+      { "exam": "NIMCET", "maxRank": 950, "scoreBand": "Top 950" }
+    ],
+    "placements": [
+      { "year": 2022, "placementRate": 69, "medianCtc": 5.1, "highestCtc": 13.0, "topRecruiters": ["Deloitte", "TCS", "FactSet", "Cognizant"] },
+      { "year": 2023, "placementRate": 72, "medianCtc": 5.7, "highestCtc": 14.0, "topRecruiters": ["Infosys", "FactSet", "Genpact", "Deloitte"] },
+      { "year": 2024, "placementRate": 74, "medianCtc": 6.2, "highestCtc": 15.0, "topRecruiters": ["Deloitte", "Infosys", "Tech Mahindra", "ADP"] }
+    ],
+    "reviews": [
+      { "authorName": "Pooja Reddy", "headline": "Excellent academic depth for postgraduates", "body": "The university is especially strong for students who care about research culture and academic freedom. Placements are selective by department, so program choice matters a lot.", "rating": 4.4, "sourceType": "seeded_student" },
+      { "authorName": "Vikram Joshi", "headline": "Great campus atmosphere and faculty access", "body": "The campus is spacious and the interdisciplinary environment is a real strength. Students targeting industry should combine coursework with internships and projects early.", "rating": 4.3, "sourceType": "seeded_student" }
+    ]
+  }
+]
